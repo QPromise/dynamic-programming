@@ -19,4 +19,4 @@ def bfs(graph,s):
                 queue.append(w)
                 seen.add(w)
         print(vertex)
-bfs(graph,"B")
+bfs(graph,"A;  ")
